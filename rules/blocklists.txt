@@ -7674,6 +7674,7 @@ ad.uwm.edu
 ad.v6.kuaishou.cn
 ad.vacanceo.com
 ad.val.jp
+ad.velomania.ru
 ad.vera.bet.br
 ad.verda2.akadns.net
 ad.video-mech.ru
@@ -8700,6 +8701,7 @@ adinplay.com
 adinsight.co.kr
 adinsight.com
 adinstantpage16-normal-useastred.tiktokv.eu
+adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net
 adinte.jp
 adintegration.lijit.com
 adintend.com
@@ -10927,6 +10929,7 @@ ads.wapx.cn
 ads.watson.ch
 ads.weather.ca
 ads.web.de
+ads.web.tr
 ads.web1tv.de
 ads.webcafe.bg
 ads.webhosting.info
@@ -11431,7 +11434,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15056,6 +15058,8 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -15999,6 +16003,7 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -17734,6 +17739,7 @@ analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.sharecare.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -18119,6 +18125,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -21354,7 +21361,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -30097,7 +30103,6 @@ bxbtbf.msccruises.no
 bxbuvv.zeelool.com
 bxcebt.enjoyyourcamera.com
 bxdeaeieixgkf.store
-bxdrrkfeichhms.com
 bxekozqvwcqeg.space
 bxerfbkaoasof.space
 bxfvaugytecwq.online
@@ -33222,6 +33227,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -45890,7 +45896,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -94275,7 +94280,6 @@ lowlifewhateverspotless.com
 lowmothandhadb.org
 lownet.fr
 loworiginatepalette.com
-lowrihouston.pro
 lowtrainer.com
 loxitdat.com
 loy356.site
@@ -133901,7 +133905,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -137532,6 +137535,7 @@ securetags.esri.ca
 securetags.esri.ch
 securetags.esri.co
 securetags.esri.com
+securetags.esri.com.tr
 securetags.esri.de
 securetags.esri.fi
 securetags.esri.in
@@ -137540,6 +137544,7 @@ securetags.esri.ro
 securetags.esri.rw
 securetags.esri.se
 securetags.esrichina.hk
+securetags.esriturkey.com.tr
 securetags.esriuk.com
 securetags.geotecnologias.com
 securetags.gisbaltic.eu
@@ -155956,6 +155961,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -166070,6 +166076,7 @@ suhvoulwtaxfj.site
 suibianmaimaicom.com
 suicidalruse.com
 suidaohgl.com
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -184317,7 +184324,6 @@ vebmmcatswbwv.com
 vebv8me7q.com
 vechainofficial.org
 vectaury.io
-vectoio.net
 vector.co
 vectormarketing.com
 vectorpulsemesh8.cyou
@@ -186170,6 +186176,7 @@ vpn-explained.com
 vpn-us-west.conversantmedia.com
 vpn.express
 vpn.szdatayj.com
+vpn.tuodupingguomiao.com
 vpnaffiliates.com
 vpnclick.biz
 vpndb.alhapi.com
@@ -191623,6 +191630,7 @@ www.hibids10.com
 www.hiewa.com.my
 www.higame123.com
 www.higherteam.com
+www.highgg.com
 www.hipmarket.com
 www.hippoobox.com
 www.histats.com
@@ -192135,7 +192143,6 @@ www.primecrestnq.name
 www.proadscdn.com
 www.procarsharing.store
 www.profitablecpmratenetwork.com
-www.profitshare.bg
 www.promomasters.at
 www.promoskills.com
 www.propellerclick.com
@@ -195537,7 +195544,6 @@ yardianalytics.com
 yardnamesake.com
 yardr.net
 yardstick.bitchute.com
-yardtoexperience.net
 yarezo.vendee-tourisme.com
 yariman.online
 yaroec.plytki-lazienki.pl
